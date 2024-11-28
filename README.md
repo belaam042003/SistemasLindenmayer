@@ -1,6 +1,4 @@
-# SistemasLindenmayer
-
-# 🌳 Vida Artificial - Parcial II: Sistemas de Lindenmayer  
+# 🌳 Sistemas de Lindenmayer  
 
 Este repositorio contiene el desarrollo del **Parcial II** de la asignatura *Vida Artificial*, que explora los **Sistemas de Lindenmayer** para la generación procedimental de bosques con perspectiva y puntos de fuga.  
 
