@@ -50,8 +50,8 @@ El bosque se genera dinámicamente, ofreciendo una nueva versión en cada ejecuc
 
 1. Clona el repositorio:  
    ```bash
-   git clone https://github.com/IsabellaArdila/VidaArtificial-ParcialII-SistemasLindenmayer.git
-   cd VidaArtificial-ParcialII-SistemasLindenmayer
+   git clone https://github.com/IsabellaArdila/SistemasLindenmayer.git
+   cd SistemasLindenmayer
    ```  
 
 2. Instala las dependencias necesarias (si aplica).  
